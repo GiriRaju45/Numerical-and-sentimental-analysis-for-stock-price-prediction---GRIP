@@ -4,7 +4,7 @@ The main objective of the task is to perform the numerical and sentimental analy
 
 The Numerical Analysis is on the share price data.
  
-The sentimental Analysis is on the textual data(india-news-headlines)
+The sentimental Analysis is on the textual data(india-news-headlines) Dataset link : https://drive.google.com/file/d/1IoiHmaz1GGVKHLl_9apktJTkfp_7JMTi/view?usp=sharing
 
 Using the resulting dataframe values, I've provided them into LSTM and performed the price prediction of the stock.
 
