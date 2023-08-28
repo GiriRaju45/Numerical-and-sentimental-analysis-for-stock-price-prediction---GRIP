@@ -1,4 +1,4 @@
-## In this repository, I'm going to show my task which I've completed for my internship at The Sparks Foundation.
+## In this repository, I've implemented the task of Stock Price Prediction which I've completed for my internship at The Sparks Foundation.
 
 The main objective of the task is to perform the numerical and sentimental analysis of the stock and built a hybrid model to predict the price of the stock price.
 
